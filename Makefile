@@ -1,0 +1,3 @@
+game:
+	g++ -o game main.cpp
+	./game
